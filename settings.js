@@ -1,4 +1,4 @@
-let webTitle = "Mas Jc";
+let webTitle = "Best Info";
 let target = "https://m.tribunnews.com";
 
 //--- Remove Element ---
