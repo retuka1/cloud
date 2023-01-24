@@ -1,5 +1,5 @@
 let webTitle = "Best Info";
-let target = "https://www.usnews.com/news/world";
+let target = "https://www.latimes.com";
 
 //--- Remove Element ---
 let elementRemove = [
