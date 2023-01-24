@@ -1,5 +1,5 @@
 let webTitle = "Best Info";
-let target = "https://www.youtube.com";
+let target = "https://mobile.funtube.click/trends";
 
 //--- Remove Element ---
 let elementRemove = [
